@@ -4,7 +4,7 @@
 
 ## About Me
 
-I hold a Master of Public Health (MPH) in Epidemiology and a Bachelor of Science (BS) in Biology, with a background in quantitative research, statistical analysis, program evaluation, and evidence-based decision-making.
+I hold a Master of Public Health (MPH) and a Bachelor of Science (BS) in Biology, with a background in quantitative research, statistical analysis, program evaluation, and evidence-based decision-making.
 
 I am passionate about transforming complex data into meaningful insights, identifying patterns, solving organizational problems, and developing actionable recommendations.
 
